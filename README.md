@@ -32,17 +32,12 @@ Data is only as valuable as the decisions it drives. This dashboard was designed
 *Analyzes customer value via a Profit vs. Revenue scatter plot to identify growth opportunities.*
 
 ### 3. The Operational Context (Geographic & Shipping)
-- **The "Why":** Business doesn't happen in a vacuum; it happens in specific locations with varying logistics costs. The ** Map** and **Regional Matrix** were built to visualize the "Operational Gap."
+- **The "Why":** Business doesn't happen in a vacuum; it happens in specific locations with varying logistics costs. The **Map** and **Regional Matrix** were built to visualize the "Operational Gap."
 - **The Insight:** These views highlight "Ghost Markets"—states where high sales volume masks underlying profit losses. This directs management to focus on logistics optimization rather than just "increasing sales" in failing regions.
 <img width="1405" height="785" alt="Screenshot 2026-05-30 135812" src="https://github.com/user-attachments/assets/86c04961-5679-4872-bae8-864972917e32" />
 
 *A regional map highlighting revenue earned and sales done in each state.*
 
-## 📂 Project Structure
-```text
-├── /data                # Cleaned dataset (CSV)
-├── /sql_scripts         # SQL queries for analysis
-├── /documentation       # Dashboard screenshots
-├── Superstore.pbix      # Power BI report file
-└── README.md
+## Connect With Me:
+My Linkedin - https://www.linkedin.com/in/debjani-dutta-gupta/
 
